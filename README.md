@@ -94,11 +94,8 @@ cd FINAL_PWA
 
 📬 Connect With Me
 
-Platform	Link
+📧 Email	 ajinkyaspatil2011@gmai.com
 
-📧 Email	ajinkyaspatil2011@gmai.com
-
-🌐 GitHub	github.com/ajinkyaspatil20
 
 🏔️ Every stone in these forts echoes the roar of Shivaji Maharaj’s bravery.
 
